@@ -110,8 +110,7 @@ The completed Mug of Judgement setup with perpendicular sensor housing.
 
 ### Project Demo
 # Video
-<video controls src="Project Demo.mp4" title="Title"></video>
-
+[![Watch Project Demo](https://img.shields.io/badge/Click%20to%20Watch-Project%20Demo-red?style=for-the-badge&logo=youtube)](Project%20Demo.mp4)
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
