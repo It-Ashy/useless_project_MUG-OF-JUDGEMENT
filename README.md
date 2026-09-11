@@ -79,14 +79,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![alt text](<Screenshot 2026-09-12 050110.png>)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![alt text](<Screenshot 2026-09-12 050110-1.png>)
 
 # Diagrams
 ![alt text](<Workflow diagram.png>)
